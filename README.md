@@ -1,5 +1,5 @@
 # Chat-App
-## Simple Chat App with Websocket and Spring Boot😄...
+## Simplest Chat App with Websocket and Spring Boot😄...
 * Web based Chat-app with very simple UI
 * Only Group Chats for now😄..
 
